@@ -1,0 +1,14 @@
+div{
+    width: 100%;
+    height: 200px;
+    background-color: #FF0000;
+   
+}
+
+@media (max-width: 600px) {
+    div {
+        background-color: #07ffd6;
+   
+    }
+}
+
