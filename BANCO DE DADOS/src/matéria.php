@@ -17,7 +17,7 @@ class Pessoa {
             codigo_do_curso,
             data_cadastro,
             duraçao_da_materia,
-            nome,
+            nome
             
             DATE_FORMAT(data_cadastro, '%d/%m/%Y %H:%i:%s') data_cadastro,
            
